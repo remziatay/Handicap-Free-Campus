@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="mapbox_token" translatable="false">MAPBOX TOKEN</string>
+    <string name="openroute_token" translatable="false">OPENROUTE TOKEN</string>
+    <string name="app_name" tools:ignore="PrivateResource">Handicap-Free Campus</string>
+    <string name="aranıyor">Searching…</string>
+    <string name="konumum">My Location</string>
+    <string name="no_location">Couldn\'t find your location</string>
+    <string name="set_location">Please select a starting point</string>
+    <string name="başlangıç">Starting Point</string>
+    <string name="bitiş">Destination</string>
+    <string name="konum_ayarla">Set my location as starting point</string>
+    <string name="rota_ara">Search route</string>
+    <string name="rota_yok">Couldn\'t find a secure route</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="hakkinda">About</string>
+    <string name="Tamam">Okay</string>
+    <string name="thx">Special thanks to</string>
+    <string name="prepared">Prepared by</string>
+    <string name="power">Power</string>
+</resources>

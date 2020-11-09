@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="PrivateResource">Engelsiz Umuttepe</string>
+    <string name="aranıyor">Aranıyor…</string>
+    <string name="konumum">Konumum</string>
+    <string name="no_location">Konum bulunamadı!</string>
+    <string name="set_location">Lütfen başlangıç konumu seçiniz</string>
+    <string name="başlangıç">Başlangıç</string>
+    <string name="bitiş">Bitiş</string>
+    <string name="konum_ayarla">Konumumu başlangıç olarak ayarla</string>
+    <string name="rota_ara">Rota ara</string>
+    <string name="rota_yok">Güvenli bir rota bulunamadı</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="hakkinda">Hakkında</string>
+    <string name="Tamam">Tamam</string>
+    <string name="thx">Teşekkürler</string>
+    <string name="prepared">Hazırlayanlar</string>
+    <string name="power">Güç</string>
+</resources>
